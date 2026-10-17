@@ -1,0 +1,10 @@
+{
+  "model": "XGBoost",
+  "selection_metric": "pr_auc",
+  "pr_auc": 0.32116406038879575,
+  "scored_rows": 428738,
+  "operating_threshold": 0.5,
+  "flagged_for_screening": 146383,
+  "flagged_rate": 0.3414,
+  "mean_risk_probability": 0.3675
+}

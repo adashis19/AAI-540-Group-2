@@ -1,0 +1,20 @@
+# Environments
+.venv/
+__pycache__/
+*.pyc
+
+# Large raw data (regenerate via README download steps — too big for GitHub)
+data/raw/*.XPT
+data/raw/*.zip
+
+# Full batch-scored output is large and regenerable (`python -m src.batch_inference`).
+# A 100-row sample (reports/batch_predictions_2023_sample.csv) is committed instead.
+reports/batch_predictions_2023.csv
+
+# NOTE: processed parquet (data/processed/*.parquet, <8MB) IS committed so the
+# notebook and batch job run immediately after clone without the 1GB raw files.
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Keep: src/, notebooks/, reports/, models/, README, requirements

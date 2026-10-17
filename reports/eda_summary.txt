@@ -1,0 +1,29 @@
+BRFSS EDA summary — total rows: 1,302,907
+Features: ['bmi', 'mental_health_days', 'phys_health_days', 'age_group', 'sex', 'gen_health', 'smoked_100', 'smoker_status', 'diabetes', 'diff_walk', 'phys_activity', 'kidney_disease', 'income_group', 'education_group', 'has_personal_doctor']
+Leakage excluded: ['_MICHD', 'CVDINFR4', 'CVDCRHD4']
+
+Heart-disease prevalence by year:
+  2021: 8.138%  (n=434,058)
+  2022: 9.032%  (n=440,111)
+  2023: 8.469%  (n=428,738)
+
+Overall class balance:
+  negative (0): 1,191,522
+  positive (1): 111,385
+
+Missing-value fraction per feature:
+  income_group           20.856%
+  bmi                    10.257%
+  smoker_status          6.281%
+  smoked_100             6.168%
+  diff_walk              4.630%
+  phys_health_days       2.293%
+  age_group              1.957%
+  mental_health_days     1.847%
+  has_personal_doctor    0.896%
+  education_group        0.507%
+  kidney_disease         0.341%
+  gen_health             0.253%
+  phys_activity          0.223%
+  diabetes               0.164%
+  sex                    0.000%
