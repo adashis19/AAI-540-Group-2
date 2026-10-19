@@ -1,14 +1,14 @@
-# AAI-540 Group 2 — Video Demonstration Script & Outline (Deliverable #2)
+# AAI-540 Group 2 — Video Demonstration Transcript (Deliverable #2)
 
 **Project:** Heart-Disease Risk Screening — Production MLOps on AWS SageMaker
 **Team:** Ashis Das · Hanmant Mhalappa Kattimani · Ram Prasanth G
 **Target length:** 10–15 minutes (aim ~12). Export as **.mp4**.
-**Companion deck:** `AAI-540_Group2_Deliverable-2_Presentation.pptx` (speaker
-notes on each slide repeat this script).
+**Companion deck:** `AAI-540_Group2_Deliverable-2_Presentation.pptx`.
 
-> This script is the outline/transcript required alongside the video. Every one
-> of the six required demonstration items is called out in **bold**. Speaking
-> time is split roughly equally across the three presenters.
+> This is the **transcript** of the video demonstration, required alongside the
+> recording. Each of the six required demonstration items is marked in **bold**.
+> The presentation is delivered by all three team members in roughly equal
+> portions.
 
 > **SCOPE NOTE (state this in the video).** The system is *designed for AWS
 > SageMaker*. Because we did not have AWS access, this is a **slide-based
